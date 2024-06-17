@@ -30,7 +30,7 @@ You will be greeted with a landing page with links to the various examples we've
 ## Deployment
 You can deploy this example to Heroku and start working with Journey Builder Custom Activities Today!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy/?template=https://github.com/duyduc27/sfmc-example-jb-custom-activity) 
 
 
 ## Examples
