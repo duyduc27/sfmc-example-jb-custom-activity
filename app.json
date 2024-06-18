@@ -1,6 +1,6 @@
 {
   "name": "Custom Activity",
-  "description": "A barebones Journey Builder Custom Activity example.",
-  "repository": "https://github.com/salesforce-marketingcloud/sfmc-example-jb-custom-activity",
+  "description": "This is a template for a basic Journey Builder activity using node.js and Heroku",
+  "repository": "https://github.com/psapir/journey-builder-activity-template",
   "keywords": ["node", "express", "static"]
 }
