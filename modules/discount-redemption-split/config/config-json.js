@@ -28,6 +28,7 @@ module.exports = function configJSON(req) {
       }
     },
     configurationArguments: {
+      "applicationExtensionKey": "7fd5afb8-aeab-4244-8ec1-00e9ce4fbaa9",
       save: {
         url: `https://dcle-test2-dd15b6793059/modules/discount-redemption-split/save`
       },
